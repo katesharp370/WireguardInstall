@@ -60,3 +60,11 @@ sudo apt update
   ```
   docker-compose --version
   ```
+
+## Wireguard Install
+* create directory
+``` 
+mkdir -p ~/wireguard/
+mkdir -p ~/wireguard/config/
+nano ~/wireguard/docker-compose.yml
+```
